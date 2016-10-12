@@ -1,5 +1,6 @@
 #Still missing
 
+More lightening talks
 
 ##Day1 morning themes
 
@@ -10,15 +11,9 @@
 
 ###Cloud
 - 3
-- 4
 - 6
 
-###Gov
-- lightening
-
 ##Day2 afternoon
-###New Tech
-- 3
 
 ###Cloud
 - 3
